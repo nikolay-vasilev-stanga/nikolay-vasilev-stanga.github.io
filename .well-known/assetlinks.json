@@ -1,9 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.meltwego.mynav",
-    "sha256_cert_fingerprints":
-    ["FD:75:56:CE:4E:15:8F:C0:14:A5:4D:C1:0F:A9:60:A7:FF:BE:19:6C:B2:83:37:71:21:8D:94:56:4D:CC:06:3A"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.meltwego.mynav",
+      "sha256_cert_fingerprints":
+        ["56:B5:6A:AE:2D:38:B5:5F:44:CF:A5:89:5A:CE:BD:4E:AF:24:5B:99:81:5D:B2:DD:C2:7A:82:56:59:58:61:C4"]
+    }
   }
-}]
+]
