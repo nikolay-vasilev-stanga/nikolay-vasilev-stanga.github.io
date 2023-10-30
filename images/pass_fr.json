@@ -1,0 +1,55 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "pass.com.ewdc.imbruvica",
+  "serialNumber" : "8j23fm5",
+  "webServiceURL" : "https://ew-dc.com/passes/",
+  "sharingProhibited" : true,
+  "authenticationToken" : "vxwxd7J8AlNNFPS8k0a0FfUFtq0ewzFdc",
+  "teamIdentifier" : "M8H4QP7E7V",
+  "organizationName" : "Janssen, Pharmaceutical Companies of Johnson &amp; Johnson",
+  "description" : "Carte de sensibilisation pour interventions médicales et chirurgicales",
+  "logoText" : "",
+  "foregroundColor" : "rgb(0, 95, 155)",
+  "labelColor" : "rgb(89, 67, 75)",
+  "backgroundColor" : "rgb(255, 255, 255)",
+  "storeCard" : {
+    "backFields" : [
+        {
+          "key" : "back-header",
+          "value" : "Les renseignements suivants sont destinés aux professionnels de la santé"
+        },
+      {
+        "key" : "back1",  
+        "label" : "CONSIDÉRATIONS PÉRIOPÉRATOIRES",
+        "value" : "IMBRUVICA® doit être interrompu au moins 3 à 7 jours avant une intervention chirurgicale et repris dans les 3 à 7 jours qui suivent, selon le type d’intervention et le risque de saignement."
+      },
+      {
+        "key" : "back2",
+        "label" : "INTERACTIONS MÉDICAMENTEUSES",
+        "value" : "L’ibrutinib est métabolisé principalement par l’enzyme 3A du cytochrome P450 (CYP3A). L’ibrutinib est un inhibiteur de la P-gp et de la BCRP in vitro. \n\nIMBRUVICA® ne doit pas être utilisé en concomitance avec des inhibiteurs ou des inducteurs puissants du CYP3A."
+      },
+      {
+        "key" : "flash",
+        "value" : "Consultez la monographie de produit pour de plus amples renseignements concernant les interactions médicamenteuses"
+      },
+      {
+        "key" : "balance",
+        "label" : "IMBRUVICA® (ibrutinib) est indiqué :",
+        "value" : "\u2022 dans le traitement des patients atteints de leucémie lymphoïde chronique (LLC) active qui n’a jamais été traitée auparavant, y compris en présence d’une délétion 17p. \n\nL’efficacité clinique d’IMBRUVICA® contre la LLC n’ayant jamais été traitée en présence d’une délétion 17p est basée sur les avantages thérapeutiques observés chez les patients atteints de LLC en présence d’une délétion 17p qui ont reçu au moins un traitement antérieur. Les données d’études cliniques portant sur la LLC n’ayant jamais été traitée auparavant en présence d’une délétion 17p sont très limitées. \n\n\u2022 en association avec l’obinutuzumab dans le traitement des patients atteints de LLC active qui n’a jamais été traitée auparavant, y compris en présence d’une délétion 17p. \n\n\u2022 dans le traitement des patients atteints de LLC qui a fait l’objet d’au moins un traitement antérieur, y compris en présence d’une délétion 17p. \n\n\u2022 en association avec la bendamustine et le rituximab dans le traitement des patients atteints de LLC qui a fait l’objet d’au moins un traitement antérieur. \n\nLes données d’études cliniques sur IMBRUVICA® en association avec la bendamustine et le rituximab chez les patients atteints de LLC en présence d’une délétion 17p sont limitées. \n\n\u2022 dans le traitement des patients atteints de lymphome à cellules du manteau (LCM) en rechute ou réfractaire. \n\nVeuillez consulter la monographie de produit à l’adresse http://www.janssen.com/canada/fr/products pour obtenir des renseignements concernant les mises en garde, les précautions, les effets indésirables, les interactions, la posologie et les conditions d’usage clinique. Vous pouvez également vous procurer la monographie du produit en composant le 1-800-567-3331 ou le 1-800-387-8781."
+      },
+      {
+        "key" : "footer-note",
+        "value" : "P-gp = inhibiteur de la glycoprotéine P; BCRP = protéine de résistance du cancer du sein."
+      },
+      {
+        "key" : "reference",
+        "label" : "RÉFÉRENCE :",
+          "value" : "Monographie d’IMBRUVICA® , Janssen Inc., 24 septembre 2020."
+      },
+      {
+        "key" : "legal",
+        "value" : "Marques de commerce utilisées sous licence. | IMBRUVICA® est mis au point en collaboration avec Pharmacyclics. Janssen Inc. est le détenteur de l’autorisation de mise en marché et est responsable de la rédaction de ce document. © 2020 Pharmacyclics | © 2020 Janssen Inc., 19 Green Belt Drive, Toronto (Ontario) M3C 1L9 www.janssen.com/canada/fr | CP-248803E"
+      }
+    ]
+  }
+}

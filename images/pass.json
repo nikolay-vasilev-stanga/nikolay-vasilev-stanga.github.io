@@ -1,0 +1,55 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "pass.com.ewdc.imbruvica",
+  "serialNumber" : "8j23fm5",
+  "webServiceURL" : "https://ew-dc.com/passes/",
+  "sharingProhibited" : true,
+  "authenticationToken" : "vxwxd7J8AlNNFPS8k0a0FfUFtq0ewzFdc",
+  "teamIdentifier" : "M8H4QP7E7V",
+  "organizationName" : "Janssen, Pharmaceutical Companies of Johnson &amp; Johnson",
+  "description" : "Surgical and medical awareness card",
+  "logoText" : "",
+  "foregroundColor" : "rgb(0, 95, 155)",
+  "labelColor" : "rgb(89, 67, 75)",
+  "backgroundColor" : "rgb(255, 255, 255)",
+  "storeCard" : {
+    "backFields" : [
+        {
+          "key" : "back-header",
+          "value" : "This information is intended for healthcare professionals"
+        },
+      {
+        "key" : "back1",  
+        "label" : "PERI-OPERATIVE CONSIDERATIONS",
+        "value" : "IMBRUVICA® should be held at least 3 to 7 days pre- and post-surgery depending on the type of surgery and the risk of bleeding."
+      },
+      {
+        "key" : "back2",
+        "label" : "DRUG INTERACTIONS",
+        "value" : "Ibrutinib is metabolized primarily by cytochrome P450 enzyme 3A (CYP3A). Ibrutinib is an inhibitor of P-gp and BCRP in vitro. \n\nIMBRUVICA® should not be used concomitantly with strong inhibitors or inducers of CYP3A."
+      },
+      {
+        "key" : "flash",
+        "value" : "Refer to the Product Monograph for additional information regarding drug-drug interactions"
+      },
+      {
+        "key" : "balance",
+        "label" : "IMBRUVICA® (ibrutinib) is indicated:",
+        "value" : "\u2022 For the treatment of adult patients with previously untreated chronic lymphocytic leukemia (CLL), including those with 17p deletion. \n\nClinical effectiveness of IMBRUVICA® in previously untreated adult patients with CLL with 17p deletion is based on the benefit observed in patients with CLL with 17p deletion who have received ≥1 prior therapy. Clinical trial data in previously untreated patients with CLL with 17p deletion are very limited. \n\n\u2022 In combination with obinutuzumab for the treatment of adult patients with previously untreated CLL, including those with 17p deletion.\n\n\u2022 In combination with rituximab for the treatment of adult patients with previously untreated CLL.\n\nClinical trial data with IMBRUVICA® in combination with rituximab in adult patients with CLL with 17p deletion are limited.\n\n\u2022 For the treatment of adult patients with CLL who have received ≥1 prior therapy, including those with 17p deletion.\n\n\u2022 In combination with bendamustine and rituximab for the treatment of adult patients with CLL who have received ≥1 prior therapy.\n\nClinical trial data with IMBRUVICA® in combination with bendamustine and rituximab in adult patients with CLL with 17p deletion are limited.\n\n\u2022 For the treatment of adult patients with relapsed or refractory mantle cell lymphoma (MCL).\n\nConsult the Product Monograph at http://www.janssen.com/canada/products for information regarding warnings, precautions, adverse reactions, interactions, dosing and conditions of clinical use. The Product Monograph is also available by calling 1-800-567-3331 or 1-800-387-8781."
+      },
+      {
+        "key" : "footer-note",
+        "value" : "P-gp=P-glycoprotein; BCRP=breast cancer resistance protein."
+      },
+      {
+        "key" : "reference",
+        "label" : "REFERENCE:",
+          "value" : "IMBRUVICA® Product Monograph, Janssen Inc., May 28, 2021."
+      },
+      {
+        "key" : "legal",
+        "value" : "All trademarks used under license. | IMBRUVICA® is co-developed with Pharmacyclics. Janssen Inc. is the marketing authorization holder and is the responsible editor of this document. © 2021 Pharmacyclics | © 2021 Janssen Inc., 19 Green Belt Drive, Toronto, ON M3C 1L9 www.janssen.com/canada | CP-248803E"
+      }
+    ]
+  }
+}
